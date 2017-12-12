@@ -1,0 +1,29 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "merge2": "^1.2.0",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-sequence": "^0.4.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viane/typescript-starter.git"
+  },
+  "author": "Xiaoyu Zhou <xiaoyuz2011@gmail.com> (http://allenzdev.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viane/typescript-starter/issues"
+  },
+  "homepage": "https://github.com/viane/typescript-starter#readme"
+}
